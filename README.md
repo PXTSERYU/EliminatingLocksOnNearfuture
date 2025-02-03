@@ -1,5 +1,8 @@
 A config that re-enables several parts in Near Future until such a time where replacement parts are available, at which point this mod will be abandoned. I condemn Elon Musk, his actions and his ideals in the strongest of possible terms, but seeing as these pods and especially methalox engines are part of many tech trees and are parts players have come to love I wish to give players the option. This config will be abandoned and deleted as soon as replacement parts are completely available, or upon request by Nertea, though he has expressed that he is fine with others re-enabling the parts and telling others how to as long as it isn't in his thread.
 
+**INSTALLATION**
+Drag the .cfg into your GameData.
+
 
 Copyright © 2025 PXTSERYU
 
